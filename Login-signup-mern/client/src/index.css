@@ -1,0 +1,27 @@
+body {
+background-color: #000;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.css-1t1j96h-MuiPaper-root-MuiDialog-paper {
+  background-color: #000}
+
+  .center{
+    width:80%;
+    /* background-color: aqua; */
+    margin: 0 auto;
+    text-align: center;
+  }
+
+
+  /* appbar tolbar  */
+
+  .MuiToolbar-root.MuiToolbar-gutters.MuiToolbar-regular.css-hyum1k-MuiToolbar-root {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #000;
+}
